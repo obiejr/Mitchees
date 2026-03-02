@@ -193,6 +193,15 @@ body{
 .list-block h4{margin:0 0 6px 0}
 .list-block ul{margin:0;padding-left:18px;color:var(--muted)}
 
+footer {
+    text-align: center;
+    padding: 1rem 0;
+    background: #222;
+    color: #ccc;
+    font-size: 0.9rem;
+    margin-top: 2rem;
+}
+
 @media (max-width:780px){
     .profile-card{flex-direction:column;align-items:center;width:92%;}
     .card-left{flex:0 0 auto}
